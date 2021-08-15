@@ -1,0 +1,45 @@
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* Header Section Style  */
+
+.honda-bg-info{
+    background-color: #264653;
+}
+.purchase-btn-primary{
+    background-color:#E76F51 ;
+}
+.gray-color{
+    filter: grayscale(100%);
+}
+.card-img-top{
+    width: 50%;
+    height: 50%;
+
+}
+
+/* icon color  */
+.text-color, .fas {
+    color: #E76F51 ;
+}
+.fa-star{
+    color: #E76F51;
+}
+hr{
+    width: 80px;
+    color: #E76F51 ;
+    margin: auto;
+}
+
+
+/* Sponsor section  */
+.slider-container{
+    width: 40%;
+    height: 20%;
+    margin: auto;
+       
+}
+.slider-container img{
+    border-radius: 50%;
+}
